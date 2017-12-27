@@ -1,65 +1,66 @@
 This IS a Repo for Basic Python Study 
+_____________________________
 
 ConditionsAndLoops.py:
-_____________________________
+
 Study of using if else conditions and the use of for and while loops
 
-
+_____________________________
 
 DataStoringModules.py and DataStoringModules1.py:
-_____________________________
+
 
 Study of using  Dictionary Set and tuple(basic data containing structures)
 
 
 
 
-
-ExceptionHandling.py:
 _____________________________
+ExceptionHandling.py:
+
 Study of try catch and other exception handling techniques
 
 
-
+__________________
 
 Functions.py:
-__________________
+
 How to use functions and args kwargs and other function releated issues
 
 
-
+________________
 
 
 InitComprehendList.py:
-________________
+
 Study on ways of init c omprehend list
 
 
 
-
+___________________
 
 NumericalDataStudy.py:
-___________________
+
 how to work with numerical data
 
 
 
-
-PartingLists.py:
 _________________
+PartingLists.py:
+
 how to divide lists
 
 
-
+________________
 
 StringStudy.py:
-________________
+
 Study on how to work with strings
 
 
 
-
-WorkingWithFiles.py :
 _____________________
+WorkingWithFiles.py :
+
 How to open write read and parse files
 
