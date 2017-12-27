@@ -1,11 +1,14 @@
 #basic examples of loops and conditions
 
-
 #Conditions
-fat_food= 'Good'
+
+
 
 
 #example of if elif else
+
+fat_food= 'Good'
+
 if fat_food == 'Bad':
     print('that sucks')
 elif fat_food == 'not tasty':
@@ -16,7 +19,7 @@ else:
 
 x=1
 y=2
-#check if same object in memort
+#check if same object in memory
 
 if x is not y:
     print('not correct')
