@@ -34,3 +34,22 @@ print(employee.items())
 for key,value in employee.items():
     print(key,value)
 
+#build Map
+def buildMap(s):
+    the_map = {}
+    for char in s:
+        if char not in the_map:
+            the_map[char] = 1
+        else:
+            the_map[char] += 1
+
+    return the_map
+
+#sort Dictionary
+x = {1: 2, 3: 4, 4: 3, 2: 1, 0: 0}
+sorted_x = sorted(x.items(), key=lambda t: t[1])
+
+#max and min values in dict
+print(max((value, key) for key, value in x.items())[1])
+
+print(min((value, key) for key, value in x.items())[1])
