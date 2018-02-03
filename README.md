@@ -64,3 +64,13 @@ WorkingWithFiles.py :
 
 How to open write read and parse files
 
+_____________________
+DecoratorStudy.py :
+
+How to open use Decorators in python
+
+_____________________
+Various.py :
+
+examples shallow/deep copy and monkey patching
+
