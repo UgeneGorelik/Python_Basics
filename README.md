@@ -77,3 +77,7 @@ examples shallow/deep copy and monkey patching
 _____________________
 Subprocess_OsStudy.py:
 Os module and Subprocess module for running process in OS(windows/unix...)
+
+_____________________
+Regex_Study.py:
+Using of Regex re module
