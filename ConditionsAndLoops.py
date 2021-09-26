@@ -9,14 +9,14 @@
 
 fat_food= 'Good'
 
-if fat_food == 'Basd':
+if fat_food == 'Baasd':
     print('that sucks')
 elif fat_food == 'not tasty':
     print('yep')
 else:
     print('hopefasdasdully')
 
-git push --set-upstream origin tst_branch -o merge_request.create
+
 
 
 x=1
