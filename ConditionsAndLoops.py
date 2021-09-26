@@ -9,7 +9,7 @@
 
 fat_food= 'Good'
 
-if fat_food == 'Bad':
+if fat_food == 'Basd':
     print('that sucks')
 elif fat_food == 'not tasty':
     print('yep')
