@@ -14,7 +14,7 @@ if fat_food == 'Basd':
 elif fat_food == 'not tasty':
     print('yep')
 else:
-    print('hopefully')
+    print('hopefasdasdully')
 
 
 x=1
