@@ -4,7 +4,7 @@
 
 
 #declare and init dict
-employee={'name' : 'miri' ,'age':35 ,'fields of work':['yell','complain']}
+employee={'name' : 'miri' ,'age':35 ,'fields of sentece':['yell','complain']}
 
 #print certain key
 print(employee['name'])
