@@ -16,6 +16,8 @@ elif fat_food == 'not tasty':
 else:
     print('hopefasdasdully')
 
+git push --set-upstream origin tst_branch -o merge_request.create
+
 
 x=1
 y=2
