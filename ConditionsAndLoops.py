@@ -9,12 +9,14 @@
 
 fat_food= 'Good'
 
-if fat_food == 'Bad':
+if fat_food == 'Baasd':
     print('that sucks')
 elif fat_food == 'not tasty':
     print('yep')
 else:
-    print('hopefully')
+    print('hopefasdasdully')
+
+
 
 
 x=1
